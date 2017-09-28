@@ -1,0 +1,13 @@
+ body {
+background-color: palegreen
+}
+
+p {
+    color: thistle; 
+    font-size: 70px;
+    font-family: "Times New Roman";  
+}
+img {
+    width: 30%;
+    height: 30%;
+}
